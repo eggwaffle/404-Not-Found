@@ -8,7 +8,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://not-found-61dc6.web.app/">
+    <a href="https://responsive-web-dev-challenges.web.app/404/">
       Demo
     </a>
     <span> | </span>
@@ -44,7 +44,7 @@ Mobile View
 
 Challenge: Create a 404 not found page following the design. The page should be responsive.
 
-- Demo: https://not-found-61dc6.web.app/
+- Demo: https://responsive-web-dev-challenges.web.app/404/
 
 ### Built With
 
