@@ -39,7 +39,7 @@
 ![screenshot](https://raw.githubusercontent.com/eggwaffle/404-Not-Found/main/screenshot.png)
 Desktop View
 
-![screenshot](https://raw.githubusercontent.com/eggwaffle/404-Not-Found/main/mobilescreenshot.png)
+<img src="https://raw.githubusercontent.com/eggwaffle/404-Not-Found/main/mobilescreenshot.png" width=50% height=50%>
 Mobile View
 
 Challenge: Create a 404 not found page following the design. The page should be responsive.
